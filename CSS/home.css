@@ -1,0 +1,25 @@
+@import'nav.css';
+
+.hero-section{
+    width: 100%;
+    height: calc(100vh - 120px);
+    background-image: url(https://helios-i.mashable.com/imagery/articles/03IitZiHtYqdnctAIKpL9r2/hero-image.fill.size_1248x702.v1623388342.jpg);
+    background-size: cover;
+    /* display: flex;
+    justify-content: center;
+    align-items: center; */
+}
+.hero-section .heading{
+    margin-top: 10px;
+    /* text-align: center; */
+    text-transform: capitalize;
+    font-size: 60px;
+    font-weight: 500;
+}
+.hero-section .sub-heading{
+    margin-top: 10px;
+    /* text-align: center; */
+    text-transform: capitalize;
+    font-size: 20px;
+    font-weight: 300;
+}
