@@ -9,15 +9,15 @@ const createNav = () => {
                     <button class="search-btn">Search</button>
                 </div>
                 <a href="#"><img src="img/user.png" alt=""></a>
-                <a href="#"><img src="img/cart.png" alt=""></a>
+                <a href="./cart.html"><img src="img/cart.png" alt="">Cart</a>
             </div>
         </div>
         <ul class="links-container">
-            <li class="link-item"><a href="#" class="link">Home</a></li>
+            <li class="link-item"><a href="./index.html" class="link">Home</a></li>
             <li class="link-item"><a href="#" class="link">Women</a></li>
             <li class="link-item"><a href="#" class="link">Men</a></li>
             <li class="link-item"><a href="#" class="link">Kids</a></li>
-            <li class="link-item"><a href="#" class="link">Accessories</a></li>
+            <li class="link-item"><a href="./order.html" class="link">Your Order</a></li>
         </ul>
     `;
 }

@@ -1,0 +1,9 @@
+.product-container > div > button{
+    margin-left: 5px;
+    margin-bottom: 5px;
+}
+
+#total {
+    margin-top: 20px;
+    text-transform: capitalize;
+}

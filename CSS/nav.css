@@ -91,3 +91,19 @@
 .link:hover{
     opacity: 1;
 }
+
+.links-container > li:nth-child(1){
+    font-weight: bold;
+    font-size: 20px;
+}
+
+.links-container > li:nth-child(5){
+    font-weight: bold;
+    font-size: 20px;
+}
+
+.nav-items > a:nth-child(3){
+    font-weight: bold;
+    font-size: 20px;
+    text-decoration: none;
+}
